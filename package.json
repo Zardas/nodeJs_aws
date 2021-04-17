@@ -1,7 +1,9 @@
 {
     "name": "nodejs-aws",
     "version": "0.0.1",
+    "main": "index.js",
     "dependencies": {
         "express": "4.17.1"
     }
+    
 }
